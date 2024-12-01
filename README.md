@@ -16,7 +16,7 @@ LDR Light Sensor;
 
 Hall Sensor SS49E
 
-Attempts in Using the Hall Sensor
+Attempts in using the hall sensor
 ![](image/hallsensor_test.jpg)
 ![](image/hallsensor.jpg)
 

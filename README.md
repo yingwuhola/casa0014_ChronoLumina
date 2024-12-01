@@ -7,7 +7,9 @@ You can also change the color of the light with magnets.
 
 # The hardware used: 
 Arduino MKR1010; 
+
 LDR Light Sensor; 
+
 Hall Sensor SS49E
 
 # Breadboard Circuit
@@ -26,4 +28,5 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html
+
 Characteristics of light sensor: https://www.electronics-tutorials.ws/io/io_4.html

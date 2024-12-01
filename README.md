@@ -10,3 +10,4 @@ You can also change the color of the light with magnets.
 
 ![hallsensor_test](https://github.com/user-attachments/assets/e1cb5bd5-821d-49a0-bac6-5cd3c8c92efa)
 
+![](image/circuit.jpg)

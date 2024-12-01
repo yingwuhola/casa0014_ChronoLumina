@@ -5,9 +5,10 @@ An eye-friendly light controller which can automatically adjusts the brightness 
 Under normal conditions, the light is soft yellow. When the ambient light becomes stronger, the light will dim; when the ambient light is dark, the light will become brighter. 
 You can also change the color of the light with magnets.
 
+# The hardware used: 
+Arduino MKR1010; LDR Light Sensor; Hall Sensor SS49E
 
-![circuit diagram](https://github.com/user-attachments/assets/03cd57ef-4af6-4bff-97fb-62cea9ef76e4)
-
-![hallsensor_test](https://github.com/user-attachments/assets/e1cb5bd5-821d-49a0-bac6-5cd3c8c92efa)
-
+# breadboard circuit diagram
 ![](image/circuit.jpg)
+
+# stripbpard circuit diagram

@@ -8,7 +8,10 @@ You can also change the color of the light with magnets.
 # The hardware used: 
 Arduino MKR1010; LDR Light Sensor; Hall Sensor SS49E
 
-# breadboard circuit diagram
+# Breadboard Circuit Diagram
 ![](image/circuit.jpg)
 
-# stripbpard circuit diagram
+# Stripbpard Circuit Diagram
+![](image/circuit_stripboard.jpg)
+
+# How it works

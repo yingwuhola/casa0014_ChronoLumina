@@ -7,7 +7,7 @@ You can also change the color of the light with magnets.
 
 # Sketch of the prototype
 ![](image/package.jpg)
-![](image/prototype.jpg)
+![](image/prototype_1.jpg)
 
 # The hardware used: 
 Arduino MKR1010; 

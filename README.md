@@ -9,7 +9,7 @@ You can also change the color of the light with magnets.
 Because the lighting in my dormitory is very dim, my eyes often feel strained after looking at the electronic screen for a while. That’s why I really hope to have a light  that allows me to freely adjust the brightness. I would prefer higher brightness for studying and a softer, more natural light in daily life.
 
 # what I have learned
-I found a Hall sensor in the lab, and after searching online, I discovered that it has many applications in our daily lives, such as wireless headphone cases, speed dial in cars. It can detect changes in the strength and direction of magnetic fields.
+I found a Hall sensor in the lab, and after searching online, I found it has many applications in our daily lives, such as wireless headphone cases and speed dial in cars. It can detect changes in the strength and direction of magnetic fields.
 
 
 # Sketch of the prototype

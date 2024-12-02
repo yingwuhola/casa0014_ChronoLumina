@@ -5,6 +5,13 @@ An eye-friendly light controller which can automatically adjust the brightness o
 Under normal conditions, the light is soft yellow. When the ambient light becomes stronger, the light will dim; when the ambient light is dark, the light will become brighter. 
 You can also change the color of the light with magnets.
 
+# inspiration
+Because the lighting in my dormitory is very dim, my eyes often feel strained after looking at the electronic screen for a while. That’s why I really hope to have a light  that allows me to freely adjust the brightness. I would prefer higher brightness for studying and a softer, more natural light in daily life.
+
+# what I have learned
+I found a Hall sensor in the lab, and after searching online, I discovered that it has many applications in our daily lives, such as wireless headphone cases, speed dial in cars. It can detect changes in the strength and direction of magnetic fields.
+
+
 # Sketch of the prototype
 ![](image/package.jpg)
 ![](image/prototype_1.jpg)

@@ -1,4 +1,4 @@
-# casa0014_ChronoLumina
+# casa0014ChronoLumina--LightMag Harmony
 
 An eye-friendly light controller which can automatically adjust the brightness of the Chrono Lumina Blinker based on the ambient light level. 
 

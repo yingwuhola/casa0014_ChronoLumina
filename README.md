@@ -47,6 +47,9 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 2. A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow, and when a weak magnetic field(analog value < 350) is detected, it changes to cold white.
 
+
+![](video/full-video.mov)
+
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html
 

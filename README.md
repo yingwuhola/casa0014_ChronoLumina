@@ -15,6 +15,7 @@ I found a Hall sensor in the lab, and after searching online, I found it has man
 # Sketch of the prototype
 ![](image/package.jpg)
 ![](image/prototype_1.jpg)
+![](image/prototype_2.jpg)
 
 # The hardware used: 
 Arduino MKR1010; 
@@ -29,10 +30,10 @@ Hall Sensor SS49E
 
 
 # Breadboard Circuit
-![](image/circuit.jpg)
+![](image/circuit_2.jpg)
 
 # Stripbpard Circuit Diagram
-![](image/circuit_stripboard.jpg)
+![](image/circuit_stripboard_2.jpg)
 
 # How it works
 1. A LDR Light Sensor is used to detect ambient light level to control the brightness of the Chrono Lumina Blinker. 

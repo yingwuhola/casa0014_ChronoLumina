@@ -1,9 +1,10 @@
-# casa0014ChronoLumina--LightMag Harmony
+# CASA0014 ChronoLumin--LightMag Harmony
 
-An eye-friendly light controller which can automatically adjust the brightness of the Chrono Lumina Blinker based on the ambient light level. 
+LightMag Harmony means that ChronoLumina adjusts the brightness and colour under the joint action of light and magnetic fields to present a harmonious lighting effect.
 
-Under normal conditions, the light is soft yellow. When the ambient light becomes stronger, the light will dim; when the ambient light is dark, the light will become brighter. 
-You can also change the color of the light with magnets.
+Under normal conditions, the light is soft yellow. 
+In the default mode, the light will change with the change of ambient light. When the ambient light becomes stronger, the light will be brighter; when the ambient light is darker, the light will dim. In reading mode, when the ambient light becomes stronger, the light will dim; when the ambient light is dim, the light will be brighter. In addition, the colour tone of the light will be changed according to the change of the magnetic field to meet the needs of different colours. When the N pole of the magnet approaches, the light turns warm yellow. When the S pole of the magnet is close, the light turns cold white.
+
 
 # inspiration
 Because the lighting in my dormitory is very dim, my eyes often feel strained after looking at the electronic screen for a while. That’s why I really hope to have a light  that allows me to freely adjust the brightness. I would prefer higher brightness for studying and a softer, more natural light in daily life.

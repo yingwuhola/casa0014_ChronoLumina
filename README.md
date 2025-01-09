@@ -38,11 +38,15 @@ Hall Sensor SS49E
 
 # How it works
 1. A LDR Light Sensor is used to detect ambient light level to control the brightness of the Chrono Lumina Blinker. 
-When strong ambient light(analog value > 800) is detected, the blinker is dimmed(brightness = 50) to act as an ambient light.
+In the default mode, when strong ambient light(analog value > 800) is detected, the blinker will become brighter(brightness = 119), providing clear illumination.
+When moderate ambient light(400 < analog value < 800) is detected, the blinker’s brightness is soft(brightness = 90), simulating natural light.
+When low ambient light(analog value < 400) is detected, the blinker will dim(brightness = 50) to act as an ambient light.
+
+In reading mode, when strong ambient light(analog value > 800) is detected, the blinker is dimmed(brightness = 50) to act as an ambient light.
 When moderate ambient light(400 < analog value < 800) is detected, the blinker’s brightness is soft(brightness = 90), simulating natural light.
 When low ambient light(analog value < 400) is detected, the blinker’s  brightness becomes larger(brightness = 119), providing clear illumination.
 
-2. A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to green, and when a weak magnetic field(analog value < 350) is detected, it changes to red.
+2. A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow, and when a weak magnetic field(analog value < 350) is detected, it changes to cold white.
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html

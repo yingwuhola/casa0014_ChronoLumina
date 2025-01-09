@@ -41,7 +41,6 @@ Hall Sensor SS49E
 In the default mode, when strong ambient light(analog value > 800) is detected, the blinker will become brighter(brightness = 119), providing clear illumination.
 When moderate ambient light(400 < analog value < 800) is detected, the blinker’s brightness is soft(brightness = 90), simulating natural light.
 When low ambient light(analog value < 400) is detected, the blinker will dim(brightness = 50) to act as an ambient light.
-
 In reading mode, when strong ambient light(analog value > 800) is detected, the blinker is dimmed(brightness = 50) to act as an ambient light.
 When moderate ambient light(400 < analog value < 800) is detected, the blinker’s brightness is soft(brightness = 90), simulating natural light.
 When low ambient light(analog value < 400) is detected, the blinker’s  brightness becomes larger(brightness = 119), providing clear illumination.

@@ -48,7 +48,7 @@ In reading mode, when strong ambient light(analog value > 800) is detected, the 
 When moderate ambient light(400 < analog value < 800) is detected, the blinker’s brightness is soft(brightness = 90), simulating natural light.
 When low ambient light(analog value < 400) is detected, the blinker’s  brightness becomes larger(brightness = 119), providing clear illumination.
 
--A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow, and when a weak magnetic field(analog value < 350) is detected, it changes to cold white.
+-A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is soft yellow(R = 255; G = 223; B = 128). When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow(R = 255; G = 200; B = 70), and when a weak magnetic field(analog value < 350) is detected, it changes to cold white(R = 200; G = 220; B = 230).
 
 
 ## The brightness of the light will change with the change of ambient light.

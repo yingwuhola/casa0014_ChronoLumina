@@ -1,5 +1,7 @@
 # CASA0014 ChronoLumin--LightMag Harmony
 
+<img src="image/warm_yellow.jpg" alt="" width="500"> <img src="image/soft_yellow.jpg" alt="" width="500"> <img src="image/cold_white.jpg" alt="" width="500">
+
 LightMag Harmony means that ChronoLumina adjusts the brightness and colour under the joint action of light and magnetic fields to present a harmonious lighting effect.
 
 Under normal conditions, the light is soft yellow. The brightness of the light will change with the change of ambient light, with default mode and reading mode. The colour tone of the light will be changed according to the change of the magnetic field to meet the needs of different colour, warm yellow or cold white.

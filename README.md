@@ -14,10 +14,9 @@ I found a Hall sensor in the lab, and after searching online, I found it has man
 
 
 # Sketch of the prototype
-![](image/package.jpg)
 <img src="image/package.jpg" alt="" width="600">
-![](image/prototype_1.jpg)
-![](image/prototype_2.jpg)
+<img src="image/prototype_1.jpg" alt="" width="600">
+<img src="image/prototype_2.jpg" alt="" width="600">
 
 # The hardware used: 
 Arduino MKR1010; 
@@ -49,9 +48,8 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 2. A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow, and when a weak magnetic field(analog value < 350) is detected, it changes to cold white.
 
 
-<video src="video/full-video.mov" controls width="640"></video>
-![](video/full_video.GIF)
-<img src="video/full_video.GIF" alt="" width="500">
+
+<img src="video/ful-video.GIF" alt="" width="400">
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html

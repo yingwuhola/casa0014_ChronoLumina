@@ -51,9 +51,9 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 ## The brightness of the light will change with the change of ambient light.
 ### 1)Default Mode
-When the ambient light becomes stronger, the light will be brighter
-<img src="video/default1.GIF" alt="" width="250">
-when the ambient light is darker, the light will dim. 
+When the ambient light becomes stronger, the light will be brighter  
+<img src="video/default1.GIF" alt="" width="250">  
+when the ambient light is darker, the light will dim.   
 <img src="video/default2.GIF" alt="" width="250">
 
 ### 2)Reading Mode

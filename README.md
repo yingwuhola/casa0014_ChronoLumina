@@ -85,4 +85,6 @@ https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html
 https://www.allegromicro.com/en/insights-and-innovations/technical-documents/hall-effect-sensor-ic-publications/hall-effect-ic-applications-guide  
 https://www.arrow.com/en/research-and-events/articles/hall-effect-sensor-applications  
 Characteristics of light sensor:  
-https://www.electronics-tutorials.ws/io/io_4.html
+https://www.electronics-tutorials.ws/io/io_4.html  
+publishing messages via MQTT:  
+https://github.com/ucl-casa-ce/casa0014/tree/main/chronoLumina

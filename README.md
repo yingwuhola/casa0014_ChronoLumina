@@ -15,6 +15,7 @@ I found a Hall sensor in the lab, and after searching online, I found it has man
 
 # Sketch of the prototype
 ![](image/package.jpg)
+<img src="image/package.jpg" alt="" width="300">
 ![](image/prototype_1.jpg)
 ![](image/prototype_2.jpg)
 
@@ -49,6 +50,7 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 
 <video src="video/full-video.mov" controls width="640"></video>
+![](video/full-video.gif)
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html

@@ -26,7 +26,7 @@ LDR Light Sensor;
 Hall Sensor SS49E
 
 ## Attempts in using the hall sensor
-<img src="image/hallsensor_test.jpg" alt="" width="500"> <img src="image/hallsensor.jpg" alt="" width="400">
+<img src="image/hallsensor_test.jpg" alt="" width="450"> <img src="image/hallsensor.jpg" alt="" width="350">
 
 
 # Breadboard Circuit

@@ -53,21 +53,23 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 ### 1)Default Mode
 When the ambient light becomes stronger, the light will be brighter  
 <img src="video/default1.GIF" alt="" width="250">  
+
 when the ambient light is darker, the light will dim.   
 <img src="video/default2.GIF" alt="" width="250">
 
 ### 2)Reading Mode
-when the ambient light becomes stronger, the light will dim
-<img src="video/read1.GIF" alt="" width="250">
-when the ambient light is dim, the light will be brighter
+when the ambient light becomes stronger, the light will dim  
+<img src="video/read1.GIF" alt="" width="250">  
+
+when the ambient light is dim, the light will be brighter  
 <img src="video/read2.GIF" alt="" width="250">
 
 ## The colour of the light will change with the magnet.
-### 1)warm yellow
-When the N pole of the magnet approaches, the light turns warm yellow. 
+### 1)warm yellow  
+When the N pole of the magnet approaches, the light turns warm yellow.   
 <img src="video/warm.GIF" alt="" width="250">
 ### 2)cold white
-When the S pole of the magnet approaches, the light turns cold white.
+When the S pole of the magnet approaches, the light turns cold white.  
 <img src="video/cold.GIF" alt="" width="250">
 
 

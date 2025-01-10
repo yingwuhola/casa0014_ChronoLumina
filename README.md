@@ -26,15 +26,17 @@ LDR Light Sensor;
 Hall Sensor SS49E
 
 ## Attempts in using the hall sensor
-![](image/hallsensor_test.jpg)
-![](image/hallsensor.jpg)
+<img src="image/hallsensor_test.jpg" alt="" width="600">
+<img src="image/hallsensor.jpg" alt="" width="600">
 
 
 # Breadboard Circuit
-![](image/circuit_2.jpg)
+<img src="image/circuit_2.jpg" alt="" width="600">
+
 
 # Stripbpard Circuit Diagram
-![](image/circuit_stripboard_2.jpg)
+<img src="image/circuit_stripboard_2.jpg" alt="" width="600">
+
 
 # How it works
 1. A LDR Light Sensor is used to detect ambient light level to control the brightness of the Chrono Lumina Blinker. 
@@ -49,7 +51,7 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 
 
-<img src="video/ful-video.GIF" alt="" width="400">
+<img src="video/full-video.GIF" alt="" width="400">
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html

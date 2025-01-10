@@ -6,10 +6,10 @@ Under normal conditions, the light is soft yellow.
 In the default mode, the light will change with the change of ambient light. When the ambient light becomes stronger, the light will be brighter; when the ambient light is darker, the light will dim. In reading mode, when the ambient light becomes stronger, the light will dim; when the ambient light is dim, the light will be brighter. In addition, the colour tone of the light will be changed according to the change of the magnetic field to meet the needs of different colours. When the N pole of the magnet approaches, the light turns warm yellow. When the S pole of the magnet is close, the light turns cold white.
 
 
-# inspiration
+# Inspiration
 Because the lighting in my dormitory is very dim, my eyes often feel strained after looking at the electronic screen for a while. That’s why I really hope to have a light  that allows me to freely adjust the brightness. I would prefer higher brightness for studying and a softer, more natural light in daily life.
 
-# what I have learned
+# What I have learned
 I found a Hall sensor in the lab, and after searching online, I found it has many applications in our daily lives, such as wireless headphone cases and speed dial in cars. It can detect changes in the strength and direction of magnetic fields.
 
 
@@ -50,7 +50,7 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 2.A Hall Sensor is used to detect changes in the magnetic field to change the color of Chrono Lumina Blinker. Under a normal magnetic field, the colour of the blinker is yellow. When a strong magnetic field(analog value > 550) is detected, the blinker changes to warm yellow, and when a weak magnetic field(analog value < 350) is detected, it changes to cold white.
 
 
-
+##full video
 <img src="video/full-video.GIF" alt="" width="400">
 
 # Reference

@@ -80,6 +80,9 @@ When the S pole of the magnet approaches, the light turns cold white.
 <img src="video/full-video.GIF" alt="" width="400">
 
 # Reference
-Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html
-
-Characteristics of light sensor: https://www.electronics-tutorials.ws/io/io_4.html
+Principle and Application of Hall sensor:  
+https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html  
+https://www.allegromicro.com/en/insights-and-innovations/technical-documents/hall-effect-sensor-ic-publications/hall-effect-ic-applications-guide  
+https://www.arrow.com/en/research-and-events/articles/hall-effect-sensor-applications  
+Characteristics of light sensor:  
+https://www.electronics-tutorials.ws/io/io_4.html

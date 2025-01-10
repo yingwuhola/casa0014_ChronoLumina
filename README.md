@@ -23,7 +23,9 @@ Arduino MKR1010;
 
 LDR Light Sensor; 
 
-Hall Sensor SS49E
+Hall Sensor SS49E;
+
+A button
 
 ## Attempts in using the hall sensor
 <img src="image/hallsensor_test.jpg" alt="" width="450"> <img src="image/hallsensor.jpg" alt="" width="350">

@@ -50,8 +50,8 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 
 
 <video src="video/full-video.mov" controls width="640"></video>
-![](video/full-video.gif)
-<img src="video/full-video.gif" alt="" width="500">
+![](video/full_video.gif)
+<img src="video/full_video.gif" alt="" width="500">
 
 # Reference
 Principle and Application of Hall sensor: https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html

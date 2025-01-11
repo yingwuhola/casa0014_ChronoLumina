@@ -80,6 +80,9 @@ When low ambient light(analog value < 400) is detected, the blinker’s  brightn
 <img src="video/full-video.GIF" alt="" width="400">
 
 # Reference
+The relationship between ambient lighting and eye health：  
+https://www.ophthalmology24.com/how-lighting-affects-your-vision  
+https://www.theeyefoundation.com/eye/role-of-ambient-lighting-in-reducing-eye-strain  
 Principle and Application of Hall sensor:  
 https://www.electronics-tutorials.ws/electromagnetism/hall-effect.html  
 https://www.allegromicro.com/en/insights-and-innovations/technical-documents/hall-effect-sensor-ic-publications/hall-effect-ic-applications-guide  
